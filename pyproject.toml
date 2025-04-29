@@ -1,0 +1,22 @@
+[project]
+name = "session8-bonus-rag-project"
+version = "0.1.0"
+description = "Compare naive and semantic chunking strategies for RAG evaluation"
+authors = [
+    { name="Mark Walker" }
+]
+
+dependencies = [
+    "langgraph",
+    "langchain",
+    "ragas",
+    "openai",
+    "sentence-transformers",
+    "scikit-learn",
+    "pandas",
+    "matplotlib",
+    "jupyter",
+    "python-dotenv",
+    "faiss-cpu==1.7.4",
+    "numpy<2.0.0"
+]

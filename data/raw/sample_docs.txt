@@ -1,0 +1,402 @@
+Effective Engineering Philosophy
+
+(Note: This is a philosophy — a collection of ideas I believe have value. This is not a vision of how things must be. Each enterprise is unique, and even the projects within the enterprise can be unique. The value of this philosophy is to help bring focus to a specific vision for an enterprise.)
+
+Introduction
+In today’s rapidly evolving business landscape, technology is not just a component but the cornerstone of every successful enterprise. Since an enterprise's success is tied to technology, Engineering must adopt an Enterprise Perspective — understanding the enterprise’s mission, goals, and initiatives. Additionally, a Customer Perspective is crucial: seeing our products through the customer's eyes and maximizing their value. Combining these, we discover the purpose which drives our efforts. Understanding Why, What, and Who gives us the wisdom to make better decisions, thus optimizing our time and effort. The increased customer satisfaction and allegiance allows us to continue pursuing our mission.
+
+Effective Is Better Than Productive
+Definitions
+Productive: Focuses on the quantity of the output produced (How much was made?)
+Effective: Focuses on the impact of the output produced (How valuable is what was made?)
+Why Effective Engineering
+In a free market economy, all enterprises share a common purpose: to provide goods and services profitably for the enterprise’s ownership. Regardless of these owners’ passion for the products provided, the enterprise is unsustainable without profitability. A highly productive engineering team will bankrupt an enterprise when what they produce is not what the customer wants or needs. Their excellent efforts have not resulted in meaningful value. Conversely, an engineering team that, in collaboration with Product and Sales, focuses their efforts on building what the customers want (“building the right thing”) and building it in a quality-driven way which increases customer satisfaction and dedication (“building the thing right”), will have a measurable impact on the enterprise’s goals. Their excellent efforts have resulted in very meaningful value!
+
+Annual studies of engineering teams continue to show that customer-focused teams operating in a paradigm that enables their effectiveness will significantly impact the enterprise’s performance and each individual’s job satisfaction.
+The Building Blocks Of An Effective Team
+Google has done an internal research study on effective teams. The study showed that the makeup of the team (positions/roles) did not impact their effectiveness. What does impact the team’s effectiveness is their culture. They found that these five keys predict the effectiveness of a team:
+Psychological Safety (Trust): Team members feel safe to take risks and be vulnerable in front of each other
+Dependability: Team members get things done on time and meet Google’s high bar for excellence
+Structure and Clarity: Team Members have clear roles, plans, and goals
+Meaning: Work is personally important to team members
+Impact: Team members think their work matters and creates change
+Engineering Culture
+Effective Engineering Leadership
+Why does team culture have the most impact on team effectiveness? Our culture determines our attitudes, which, in turn, determine our behaviors. How do we change our culture so we can see improvements in attitudes and behaviors? Leadership, specifically transformational leadership, is how we drive changes in team culture. It inspires people to willfully modify their behaviors, which alters their attitudes, which then alters the culture. 
+Transformational Leadership
+Transformational leadership is inspiring! It is empowering! Transformational Leaders:
+Fuel the team with vision:
+The vision of the enterprise
+The impact of the team on the enterprise and its customers
+Champion the team’s and team member’s growth — intellectually and experientially
+Over-communicate:
+Team and team member performance
+Enterprise goals
+Any information that will inspire the team to be more effective and excited about participating in the mission of the enterprise
+
+Transformational leaders create and maintain a culture of continuous improvement by guiding teams through the cycle of knowledge, understanding, and wisdom:
+They continually provide their staff with knowledge
+They guide them in the application of this knowledge in order to gain understanding
+They then guide them to apply the understandings they have gained in order to gain wisdom
+
+The transformation to a culture of continuous improvement is achieved when the wisdom gained leads the team to seek more knowledge. 
+Transforming Team Culture
+The desired outcomes for any successful business, customer satisfaction and achieving enterprise performance goals, are maximized by effective teams. Transformational leaders impact this by continual improvement of the five keys Google identified:Psychological Safety (Trust): 
+Leaders demonstrate this by taking risks, being vulnerable, and showing humility by admitting their mistakes
+Leaders support the team by recognizing the members who are making the effort to improve in these areas — individually and in front of the team
+Leaders inspire the team through training and goal setting focused on these characteristics
+Leaders enable the team by providing opportunities to take risks, encouraging them to do so, and protecting their safety when they do
+Dependability:
+Leaders empower the team by providing the information and technology to plan and complete their work effectively
+Leaders enable the team by removing blockers and friction points
+Leaders demonstrate their personal drive for continual improvement of their own capabilities
+Leaders inspire the team members through training and goal setting focused on building a similar attitude of continual improvement
+Leaders encourage the team by recognizing their accomplishments
+Leaders protect the team by taking responsibility for mistakes and failures while at the same time reporting and crediting the team for their successes 
+Structure and Clarity:
+Leaders purposefully pair team members in order to:
+Reduce the risk of knowledge loss by sharing the knowledge with each other
+Broaden each team member’s understanding of why the team functions as it does (mentorship)
+Leaders ensure the best possible decision-making by over-communicating all information about the work, its value, and management expectations (knowledge -> understanding -> wisdom)  
+Meaning:
+Leaders ensure each team member understands the Why behind what they are doing
+Leaders genuinely appreciate the value provided by the team and its members — and they communicate this appreciation clearly and frequently
+Leaders encourage camaraderie
+Impact:
+Leaders regularly communicate the impact and value of the team’s efforts on customers and the enterprise
+Leaders promote the successes of the team across the enterprise, demonstrating their value to everyone
+
+Measuring Engineering Effectiveness
+The Purpose Of Measuring Effectiveness
+We are striving for camaraderie and support among the team members so their sum is greater than the parts. A team with this culture will have a strong sense of ownership and responsibility. The other key component is enabling the team to get the most out of their efforts. To accomplish this, the purpose of measuring engineering team performance must be to:
+Identify existing friction points in the team’s delivery (Example: Bottlenecks in the flow of work through the development process)
+Observe positive and negative trends as they form, guiding the team to capitalize on this knowledge (Example: Increases/Decreases in the rate of successful deployments)
+
+This results in a culture of continual improvement of the team’s effectiveness.
+
+Conversely, it is crucial that these measurements are never used to track individual team members’ effectiveness. Software Engineering is a team sport. Each team member has a role to play. Each team member should learn to compare their performance against their own prior performance, not the performance of other team members. Effective engineering leaders, motivated by their responsibility and commitment to their direct reports, will coach each member on improving their contributions to the team, building in them the character trait of continual improvement. Using the team effectiveness measurements to focus on individual performance will significantly damage the culture we are striving for on the team. Instead of camaraderie and support, we will end up with disdain, animosity, and a lack of ownership.
+
+In the same way, engineering teams should focus on their own continual improvement and not compare themselves to other teams. Engineering teams play on different fields. Differences in factors such as the codebase’s age, size, and health, past architectural decisions, and skill set differences among team members make comparisons dubious at best. In addition, it will cause significant damage to the Engineering organization’s culture. 
+Measurements Of Engineering Effectiveness
+Highly effective engineering teams will excel in the following areas:
+Speed — measured by:
+The rate at which they complete tasks
+The frequency at which their completed work is deployed
+Stability — measured by:
+The amount of time it takes to recover from an issue or outage
+The rate at which changes cause failures
+Availability (how teams utilize their time) — measured by the team’s success in meeting the commitments they make regarding the work they are assigned
+
+Speed, stability, and availability build on each other to improve a team’s effectiveness: 
+When tasks are small enough to be completed and deployed at a high rate, it is easier to identify and correct issues or flaws before they are deployed. This improvement in quality results in a more stable system. Additionally, the faster changes can be completed and deployed, the shorter the outage times are. So, stability is improved even more.
+The more stable the system is, the less team members are required to break off from their current tasks to fix an outage, which improves availability.
+When the team is able to work uninterrupted, they are able to complete tasks faster.
+
+These metrics have a significant advantage over traditional, productivity-based engineering performance metrics. They provide a holistic view of a team’s software delivery and operational performance. Because these effectiveness-based metrics focus on customer satisfaction, a strong correlation can be drawn between these metrics and the enterprise’s organizational performance, like profitability and market share.
+
+Conclusions
+Effective engineering effort is more critical to the enterprise than productive effort
+Teams focused on effectiveness align their efforts with organizational goals, leading to better performance and improved customer satisfaction
+The two ways to increase a team’s effectiveness are:
+Creating a culture that thrives on continual improvement
+Providing the tooling for measuring and monitoring this continual improvement
+It is the responsibility of engineering leadership to improve and sustain the team’s culture
+The sole purpose of measuring a team’s effectiveness is to provide the team with actionable information to drive their continual improvement
+
+When put into practice, these philosophies will result in increased customer satisfaction and allegiance, enabling the enterprise to continue pursuing its mission.The Pursuit Of Quality
+
+(Note: This is a philosophy — a collection of ideas I believe have value. This is not a vision of how things must be. Each enterprise is unique, and even the projects within the enterprise can be unique. The value of this philosophy is to help bring focus to a specific vision for an enterprise.)
+
+Introduction
+We live in an age where “Every company is a technology company, no matter what product or service it provides.” (see these articles from Business.com and Forbes). In this competitive landscape of software development, it is imperative to recognize that the pursuit of quality is not just a goal—it is a strategic necessity. Quality should be viewed through the lens of customer satisfaction. Customer satisfaction revolves around their perception of the quality in our products. Quality is a team sport, requiring contributions from every department and division. To turn our customers into fans of our products requires that our quality goes beyond meeting customer expectations to exceeding them. When driven by the pursuit of quality, we will ultimately provide products from which our customers will derive genuine pleasure.
+Defining Quality
+Customer Satisfaction
+Quality is in the eye of the beholder. At the heart of this philosophy is a simple yet profound principle: quality is defined by customer satisfaction. It is more than just eliminating bugs or achieving technical excellence; it is about developing products that resonate with our customers, meet their needs, and surpass their expectations.
+Perceived Value
+While quality is defined by customer satisfaction, customer satisfaction, in turn, is defined by the value the customer perceives they receive from the product. 
+Attaining Quality
+Listed below are key components that underpin this vision of quality and how Engineering can impact and monitor them.
+1. Delivering Perceived Value
+The simplest way for our customers to perceive value in our products is by delivering undeniable value through them. This is our top priority. The delivery of value is manifested in various forms, such as solving customer challenges and issues, fulfilling unmet needs, or providing unique benefits that set us apart from competitors. 
+
+Beyond the obvious building of the software, Engineering contributes to this component of quality by facilitating the continuous improvement and delivery of the product. Some examples:
+Automated Testing — which is thorough in its coverage of the product’s features 
+Feature Flags — which allow:Hiding features under construction
+Completed features to go through acceptance testing (aka UAT) in a production environment prior to release
+Incremental release to the customer base:
+Facilitates Control/Variant testing
+Minimizes the impact of any issues that occur
+Full production release
+Maintenance Planning — which ensures updates and architectural changes go unnoticed.
+2. Ensuring Exceptional Performance
+Performance is a cornerstone of quality. Our products must perform flawlessly under all conditions to sustain customer satisfaction.
+
+Engineering owns the majority of this component. The three areas of focus are:
+Scalability: 
+Initial architectural designs that:
+Avoid Single Points of Failure
+Account for the expected demand on the system
+Incremental architecture of the system in order to accommodate increased demands
+Load testing
+Reliability:
+Monitoring and alerting on Latency, Availability, and Customer-usability metrics
+Load testing
+Efficiency:
+Regular analysis of usage statistics with an eye for potential gains in higher traffic areas.
+Performance testing
+3. Optimizing Customer Experience
+A seamless user experience (UX) for customers is crucial. Products that are cumbersome or unintuitive can lead to customer frustration. The same can be said for the developer experience (DX) of B2B customers whose software engineers depend on the functionality of our developer portal and the accuracy of our API documentation.
+
+Engineering supports this component of quality in the areas of:
+Accessibility: by providing automated testing that ensures our products are, and remain, accessible to customers of all abilities.
+Responsive Design: by using automated testing to ensure our products retain the intuitive interaction designed for the product by our UX professionals across various devices and screen sizes.
+Contract Testing: by providing automated testing which validates the contracts of our API endpoints are honored. Contract testing can include collecting usage statistics, which are valuable for determining the ways and the frequency with which our customers use the APIs.
+4. Fostering Customer Delight
+The pinnacle of quality is achieved when our customers derive genuine pleasure from using our products.
+
+Engineering’s impact on this ultimate component of quality is the natural outcome of its efforts in the previous three. Those results are:
+Zero impact on the existing customer experience from the incremental implementation of new features and enhancements
+The systems providing these products meet SLA/SLO requirements and are either self-healing (resilient) or alerted on so someone can repair them
+Zero impact on the customer experience for all customers and environments supportedThe Cost Value of Quality
+What is Your “Come From?”
+There is a common proverb in project management that has come to inform many people’s perspectives on quality. Known as “Cheap, Fast, or Good — Pick 2!”, where the “Good” in this scenario is quality. The perspective this proverb is communicating is:
+You can lock in the delivery date and the quality by spending more money (not necessarily true — see Brooks’ Law)
+You can lock in the cost and the quality by extending the delivery date
+You can lock in the cost and the delivery date by sacrificing the quality 
+
+This is flawed thinking! Product Development’s three pillars need to be Cost, Time To Market, and Feature Set—with quality being an integral part of the feature set. We need to adopt the new paradigm of “Cheap, Timely, or Feature Rich — Pick 2!” 
+
+Determining Quality for a Product
+The key to assessing the quality requirements for a product, or even a feature, is found in our original principle: quality is defined by customer satisfaction. What level of customer satisfaction is appropriate for our customer base? Remember, since customer satisfaction is based on the quality the customer perceives, the quality value we build into the product is tied to the customer base. Two hypothetical examples:
+
+A product which collects patient’s monitored vital signs and provides a dashboard used by emergency room personnel
+An accounting product’s feature which collects employee card access data once per day to populate timesheets
+
+Due to the life-or-death nature of the Vital Signs Monitoring product, the quality requirements it demands are many and complex. Some of these are:
+The layout of the dashboard cannot change without proper notification and training
+The architecture of the product must be highly scalable and reliable
+The dashboard needs to be simple to use, requiring only the minimum amount of physical interaction to navigate
+The dashboard needs to be responsive to the abilities of the personnel using it as well as to the device on which it is displayed
+
+By comparison, the Card Access Collector has more simplistic quality standards:
+Automated testing sufficient to cover the single end-to-end workflow
+Basic reliability requirements
+Automated contract testing sufficient to cover the single API request/response 
+
+The product’s highest quality value is attained by defining and addressing a product’s quality requirements for each level of the Quality Pyramid. Customer Pleasure, the pinnacle of the Quality Pyramid, was attained in both scenarios:
+
+The emergency room personnel were delighted with the dashboard because they know from past experience what it was like to have to make rounds to check vitals
+Finance and Accounting staff were delighted when they think back to how time-consuming it was to collect timesheets from every employee each pay period
+Conclusion
+The pursuit of quality is a multi-faceted journey that extends beyond technical excellence to encompass customer satisfaction and delight. By focusing on value, performance, customer experience, and emotional connection, we can create products that not only meet but exceed customer expectations. Ultimately, our highest goal is achieved when our customers derive genuine pleasure from using our products, fostering long-term loyalty and endorsements.
+
+In this ever-evolving digital landscape, we must set the bar for quality at a level that sets us apart from our competition while also providing the appropriate value via quality to achieve the highest level of customer satisfaction. Our commitment to quality must be unwavering. We must also commit to continuously striving to understand and delight our customers. In so doing, we position our products for unparalleled success and create a lasting impact in the market.
+Quality Assurance Philosophy
+
+(Note: This is a philosophy — a collection of ideas I believe have value. This is not a vision of how things must be. Each enterprise is unique, and even the projects within the enterprise can be unique. The value of this philosophy is to help bring focus to a specific vision for an enterprise.)
+
+Quality Ownership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shifting Quality Left
+Benefits of Focusing on Quality Early
+The primary benefit of shifting quality left Is the positive impact on those who use the software:
+It is the best overall experience because the software “just works,” minimizing the number of bugs that make it into production.
+It results in a high level of trust in the integrity of our products.
+Customers will not be motivated to find another vendor or use a competitor’s site.
+
+Another significant benefit of shifting quality left is cost savings. Here are the varying costs of resolving issues based on when they are found (2017 research from The Ponemon Institute):
+Shift Left — Product
+Well-defined, detailed acceptance criteria are included for each feature.
+Quality staff can assist with writing these in a natural language that a testing automation framework can interpret.
+Shift Left — Program Management
+Analyzing historical feature workflows to improve future feature delivery scheduling.
+Coordinating scheduling across implementation teams during the Design and Analysis phase when interdependencies exist.
+Shift Left — Engineering
+Instill Quality Ownership in Software Engineers:
+Choose to make automated testing coverage a requirement for all new feature implementations.
+Train new team members so they become Subject Matter Experts in the automated testing for each repository.
+Implement Behavioral Driven Development (BDD — see Agile Alliance Glossary)
+aka Specification by Example
+Ties into Shift Left for Product. 
+Implement Test Driven Development (TDD — see Agile Alliance Glossary)
+It is an engineering practice, not a testing technique.
+It results in a fully automated suite of fast feedback tests.
+It must focus on business logic to provide the highest value.
+Implement Continuous Delivery/Deployment (DevOps or Site Reliability Engineering):
+Implement canary deployments. These will prevent disruptions to the deployment environment (production, staging, etc) due to failures.
+Implement feature toggles:
+Feature toggles allow for incremental development without exposing partially completed features to customers.
+Facilitates A/B Testing
+Benefits of BDD and TDD
+The benefits of implementing BDD and TDD include:
+Finding issues earlier, when they cost significantly less to resolve.
+Delivering projects with higher quality from the start.
+Significantly reducing the risk of projects missing their delivery dates.
+Software developed is easier to maintain and enhance because of the craftsmanship improvements:
+Modularity
+Cohesiveness
+Separation of Concerns
+Abstraction/Information Hiding
+Loose Coupling
+Living Documentation
+
+
+Quality Assurance Principles
+Quality staff advocate for quality!
+They ensure quality gets addressed during the following:
+Design via validation (Are we building the right thing?)
+Understanding the scope of the feature/enhancement
+Identifying testing requirements across the Testing Pyramid levels
+Collaborating on acceptance criteria
+Implementation via verification (Are we building the thing right?)
+Were the acceptance criteria met?
+Were the acceptance criteria protected by automated testing across the various levels of the Testing Pyramid?
+Deployment via certification:
+Does everything in production still work as expected after the deployment?
+Does this right thing perform at scale?
+Release via attestation:
+Does everything in production still work as expected after the release?
+Have we activated all of the functionality of the newly released feature?)
+Quality staff advocate for our customers!
+They bring focus on the customers during:
+Design by:
+Surfacing testability requirements.
+Including estimates for quality analysis to ensure the work will deliver high value from the Quality Pyramid. It will be:
+Performant
+Well crafted
+An experience that is pleasing for the customer. 
+Implementation by validating incremental deployments align with the published interfaces used by our customers.
+Deployment by:
+Creating deployment testing plans.
+Ensuring the impacted services meet defined standards and functionality (SLAs).
+Release by:
+Creating release testing plans.
+Ensuring releases meet the defined standards and functionality.
+Tracking issues and their timely resolution.
+
+Quality Assurance Practices
+
+Issue Tracking and Resolution:
+Issue priorities are assigned based on the following:
+Scope of impact on customers:
+All
+Portions of the customer base
+None
+Severity of impact on the system(s)
+Performance Monitoring:
+Dashboards are created/modified to monitor for:
+Latency
+Time To Interactive (TTI)
+Error rates
+Monitoring and alerting on these is critical! They can all have an impact on SLAs.
+Dashboards are reviewed during sprint planning to ensure issues are being worked on in their defined timeframes.
+Monitoring and Reporting on Quality:
+Software Composition Analysis (in collaboration with Security Engineering):
+Open source dependency vulnerabilities
+License compliance
+Static code analysis
+Engineering Analysis:
+Testing coverage analysis
+Deployment analysis (in collaboration with Cloud Engineering)
+Successful deployment rate
+Deployment pipeline time analysis
+Deployment Testing:
+Readiness Testing:
+Management (Starts/Stops/Restarts gracefully)
+Health checks: the service and its dependencies
+Logging and Auditing: Is the service recording implementation and domain-level events?
+Error Handling: Are retries and fallbacks behaving as expected?
+Canary Deployments:
+Slow rollout of new server instances
+Monitors health of new servers, halting the deployment if there are issues.
+System Performance Monitoring: Ensure new monitoring requirements are in place.
+Release Testing:
+Feature Activation Testing
+New feature(s) is(are) made available
+Limitations on accessibility (phased rollouts)
+System Performance Monitoring:
+Observe new monitoring activity
+Temporarily increase specific alerting frequency so issues are caught quickly.The Quality Pyramids
+Quality Pyramid
+(Based on Hee-Meng Foo’s You Can’t Fix Quality Just By Catching Bugs article)
+Basic Hygiene (does the app/service crash or become unusable frequently?):
+Infrastructure
+Error handling
+Value Provision (does the functionality work as designed?):
+Major functionality (Mission critical)
+Minor functionality (Better-to-have than not)
+Customer Performant (is the customer’s time wasted unnecessarily?):
+“Are you really sure?” delete modals
+Requiring customers to click-to-clear on success messages
+Engineering Craftsmanship (can teams deploy multiple times per day with a near-perfect success ratio?):
+At this level, the culture of “delivering the feature at all costs” needs to change to “delivering quality software in a timely manner without burning down part of the house.”
+What is the cost of deploying one modified line of code?
+Manual testing should NOT be required.
+Customer Pleasure (do customers derive pleasure from using the product?)
+
+Testing Pyramid for Microservices
+(From Tariq King’s Testing Microservices training)
+Unit:
+Class as the Unit (Isolation)
+Focused on business logic
+Mock internal and external dependencies
+Integration:
+Mock external dependencies only
+Service Isolation:
+Microservice as the Unit
+Mock are limited to external services
+Contract:
+Public interface testing
+Can provide insights into how the public interface is being used
+Service Integration:
+Test Ordering Integration
+Pairwise Integration
+Neighborhood Integration
+Production Mirror Integration
+
+
+Glossary
+
+Behavioral Driven Development (BDD): Defining the specifications for a product via scenarios. These scenarios communicate the desired outcomes that should result from an action or event performed under specific conditions. These specifications provide living documentation of the product.
+
+Customers: Entities interacting with the software. These can be:
+Customers (B2C)
+Customers of our customers
+Users (non-paying customers)
+Internal engineering teams and their software
+External API Partners (B2B)
+
+Deployment vs. Release: These two concepts must be considered separate and distinct. In a CI/CD paradigm, the code changes are being deployed to the production environment daily, possibly multiple times per day. Dozens of these deployments will likely occur before the feature is ready for customers. Once feature-ready, the business can choose when and how to release it, making it available to the customer base.
+
+Neighborhood Integration: A “Neighborhood” is a set of services one edge away from the given service. These edge services may be either immediate predecessor or immediate successor services of the given service. In this scenario, I am only concerned with my service’s neighborhood. Each of my neighbors is, in turn, responsible for their own immediate neighbors. NOTE: The difficulty of fault isolation increases as the neighborhood size increases.
+
+Pairwise Integration: Since we cannot exhaustively test every combination of system inputs, we limit testing to each edge-pair of services in the system. This results in one integration test for each edge in a call graph.
+
+Production Mirror Integration: A duplicate of the production environment is used for integration testing. In this scenario, there is no need to create mocks or stubs of anything.
+
+Release vs. Deployment: See Deployment vs. Release
+
+Test Driven Development (TDD): A software development practice that places a high value on the testability of code. Just as a regime of good personal hygiene, diet, and exercise improves a person’s health, TDD improves the code base’s health. Tests validating the code’s functionality are written before writing the code, thus driving the development. This process is done incrementally — the tests and the code mature together until the requested functionality is fully developed. After development, these tests continue to protect the health of this functionality by validating that the results remain unchanged when new code is added anywhere in the codebase.
+
+Test Ordering Integration: Seeks to find the “optimal” order for integration testing by reducing the cost of creating stubs (both in number and overall complexity). Typically, the ordering starts with services with no dependencies and works out from there.
+
+

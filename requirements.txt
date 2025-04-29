@@ -1,0 +1,10 @@
+langgraph
+langchain
+ragas
+openai
+sentence-transformers
+scikit-learn
+pandas
+matplotlib
+jupyter
+python-dotenv
